@@ -1,0 +1,17 @@
+{
+	"contact_list": {
+		"app_bar_title": "contact list",
+		"contact_item": {
+			"ability_label": "ability",
+			"address_label": "address",
+			"birthday_label": "birthday",
+			"delete_label": "delete",
+			"detail_label": "detail",
+			"edit_label": "edit"
+		}
+	},
+	"login_page": {
+		"password_text_label": "Password",
+		"username_text_label": "Username"
+	}
+}

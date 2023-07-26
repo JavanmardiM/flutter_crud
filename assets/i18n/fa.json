@@ -1,0 +1,17 @@
+{
+	"contact_list": {
+		"app_bar_title": "لیست اطلاعات تماس",
+		"contact_item": {
+			"ability_label": "توانایی",
+			"address_label": "آدرس",
+			"birthday_label": "تاریخ تولد",
+			"delete_label": "حذف",
+			"detail_label": "جزییات",
+			"edit_label": "ویرایش"
+		}
+	},
+	"login_page": {
+		"password_text_label": "رمز عبور",
+		"username_text_label": "نام کاربری"
+	}
+}

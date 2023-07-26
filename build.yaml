@@ -1,0 +1,8 @@
+targets:
+  $default:
+    sources:
+      include:
+        - assets/i18n/**
+        - lib/**
+      exclude:
+        - assets/i18n/**.babel
